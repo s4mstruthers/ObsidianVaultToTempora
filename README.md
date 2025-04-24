@@ -46,3 +46,8 @@ It will remove any incompatible callouts for block quotes (e.g. [!definition] in
 > \>**Definition of programming:**
 >
 > \>This is the definition of programming
+
+# Usage
+```python
+python obsidian_to_typora.py "path_to_folder"
+```
